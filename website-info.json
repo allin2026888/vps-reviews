@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "VPS Reviews Hub",
+  "url": "https://allin2026888.github.io/vps-reviews/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://allin2026888.github.io/vps-reviews/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
