@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allin2026888.github.io/vps-reviews/sitemap.xml
